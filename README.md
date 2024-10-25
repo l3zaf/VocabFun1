@@ -13,7 +13,7 @@ This repository contains a simple vocabulary learning web app built using HTML, 
 
 ## How to Use
 
-1. Visit the website: [Your GitHub Pages Link] (e.g., `[your-username].github.io/[repository-name]`)
+1. Visit the website: [[VocabFun](https://l3zaf.github.io/VocabFun1)] (e.g., `[your-username].github.io/[repository-name]`)
 2. Navigate through the app using the bottom navigation bar:
    - **Home:** Welcome page with an overview and access to games.
    - **Play:** Access interactive vocabulary lessons.
